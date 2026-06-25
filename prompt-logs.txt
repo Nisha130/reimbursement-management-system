@@ -1,0 +1,10 @@
+25-06-2026
+
+Prompt:
+Help me set up Express.js backend for Razorpay reimbursement assignment.
+
+Prompt:
+Help me connect Supabase PostgreSQL with Drizzle ORM.
+
+Prompt:
+Help me convert SQL table definitions to Drizzle schemas. 
